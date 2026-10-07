@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: If you use this crosswalk, please cite it as below.
+title: "Dynamic Crosswalk: population-weighted and housing-weighted conversion factors, 2010 to 2020 U.S. Census tracts"
+type: dataset
+authors:
+  - family-names: Mendoza
+    given-names: Grant A.
+repository-code: "https://github.com/Central-California-Health-Foundation/Dynamic-Crosswalk"
+repository: "https://github.com/Central-California-Health-Foundation/Dynamic-Crosswalk"
+license: CC-BY-4.0
+year: 2026
+keywords:
+  - census tracts
+  - crosswalk
+  - 2010 to 2020
+  - longitudinal geography
+  - redistricting

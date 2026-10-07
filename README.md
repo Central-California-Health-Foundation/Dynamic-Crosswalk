@@ -109,3 +109,8 @@ Run from the repository root. No server, no database, no load step.
 ## Citing
 
 Mendoza, G. A. *Dynamic Crosswalk: population-weighted and housing-weighted conversion factors, 2010 to 2020 U.S. Census tracts.* Central California Health Foundation. https://github.com/Central-California-Health-Foundation/Dynamic-Crosswalk
+
+Released under **CC BY 4.0**. Attribution is a condition of the licence, not a
+courtesy: credit the author and link the repository wherever the data, the
+validation or the write-up is used. The raw Census inputs are public domain;
+the licence covers the derived work — the weights, the validation and the text.
